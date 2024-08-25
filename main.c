@@ -1,6 +1,6 @@
 /**
  * @author: Asmaa Ahmed Ahmed
- * @brief:Clinical Management System
+ * @brief:Clinic Management System
  * @date: 26/7/2024
  */
 
