@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1724604829 source:c:\users\asmaa\desktop\c_iti_graduation\admin.c
+	"ADMIN.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724603223 source:c:\users\asmaa\desktop\c_iti_graduation\main.c
+	"STD_TYPES.h"
+	"HELPER.h"
+	"ADMIN.h"
+	"USER.h"
+
+1724586667 source:c:\users\asmaa\desktop\c_iti_graduation\user.c
+	"USER.h"
+
+1724601129 c:\users\asmaa\desktop\c_iti_graduation\admin.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"STD_TYPES.h"
+	"HELPER.h"
+
+1724584305 c:\users\asmaa\desktop\c_iti_graduation\std_types.h
+
+1724584341 c:\users\asmaa\desktop\c_iti_graduation\helper.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"STD_TYPES.h"
+
+1724584239 source:c:\users\asmaa\desktop\c_iti_graduation\helper.c
+	"HELPER.h"
+
+1724586628 c:\users\asmaa\desktop\c_iti_graduation\user.h
+	"STD_TYPES.h"
+	"ADMIN.h"
+
